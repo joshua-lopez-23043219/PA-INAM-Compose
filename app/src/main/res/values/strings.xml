@@ -1,0 +1,111 @@
+<resources>
+    <string name="app_name">PA-INAM</string>
+    <string name="txt_usuario">Usuario</string>
+    <string name="txt_password">Contraseña</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="btn_register">REGISTRARSE</string>
+    <string name="restcontraseña">¿Olvidó la contraseña?</string>
+    <string name="descripcionimagen">LogoInam</string>
+
+    <!-- string de los menus -->
+    <string name="open_nav">Open Navigation</string>
+    <string name="close_nav">Close Navigation</string>
+    <string name="home">Home</string>
+    <string name="perfil">Perfil</string>
+    <string name="ayuda">Ayuda</string>
+    <string name="ajuste">Ajuste</string>
+    <string name="salir">Close</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="consultas">Consultas</string>
+    <string name="reportes">Reportes</string>
+
+    <!-- string del fragment home -->
+    <string name="desclogo">Logo INAM</string>
+    <string name="textbienvenida">Bienvenido a PAINAM</string>
+    <string name="descripcionapp">Aquí podrás consultar datos, reportes con la información precisa y actualizada de los procesos del instituto</string>
+
+    <!-- string del fragmento ayuda -->
+    <string name="tituloayuda">Centro de Ayuda</string>
+    <string name="preguntas">Preguntas frecuentes:</string>
+    <string name="preg1">• ¿Cómo consultar datos?\nDesde el menú inferior selecciona Consultas.</string>
+    <string name="preg2">• ¿Dónde ver la infromación completa del intituto?\nEn la sección Reportes encontraras los información general de todos los procesos del instituto.</string>
+    <string name="preg3">• ¿Puedo editar información de los reportes o consultas?\nNo. No puedes modificar nada de la informacion que se te presenta en los reportes, consultas y análisis.</string>
+    <string name="preg4">• ¿Puedo realizar Busqueda?\nSi puedes utilizar los filtros que se encuentran en las pantallas</string>
+    <string name="preg5">• ¿Como realizó el cambio de mi contraseña?\nEntra a Ajuste desde el menú lateral y selecciona privacidad</string>
+    <string name="inf">Contacto de Soporte: soporteinam@gmail.com</string>
+
+    <!-- string del fragmento perfil -->
+    <string name="usuario">esmeralda08</string>
+    <string name="inst">INAM</string>
+    <string name="info">Información</string>
+    <string name="nomb">Nombre</string>
+    <string name="descnombre">Esmeralda Diaz Núñes</string>
+    <string name="nombusuario">Nombre de Usuario</string>
+    <string name="descnombusuario">esmeralda08</string>
+    <string name="email">Correo Electrónico</string>
+    <string name="descemail">esmeralda0829@admin.inam.edu.ni</string>
+    <string name="telefono">Teléfono</string>
+    <string name="destelefono">+505-8743-4360</string>
+    <string name="txtbtn_guardar">Guardar cambios</string>
+    <string name="hnombre">Escribe tu Nombre</string>
+    <string name="husuario">Escribe tu Nombre de Usuario</string>
+    <string name="htelefono">Escribe tu Número de Teléfono</string>
+    <string name="hcorreo">Escribe tu Correo Electrónico</string>
+
+
+    <string name="tituloajuste">Ajustes del Sistema</string>
+
+    <string name="tituloconsulta">Gestión Académica y Administrativa</string>
+    <string name="grupo">Grupos</string>
+    <string name="estudiantes">Estudiantes</string>
+    <string name="maestros">Maestros</string>
+    <string name="asignaturas">Asignaturas</string>
+    <string name="notas">Notas</string>
+    <string name="matriculas">Matriculas</string>
+
+    <string name="titulogrupos">Grupos de Clases por año</string>
+    <string name="grupo1">Primer Año</string>
+    <string name="grupo2">Segundo Año</string>
+    <string name="grupo3">Tercero Año</string>
+    <string name="grupo4">Cuarto Año</string>
+    <string name="grupo5">Quinto Año</string>
+    <string name="primaria1">Primer grado </string>
+    <string name="primaria2">Segundo grado </string>
+    <string name="primaria3">Tercero grado </string>
+    <string name="primaria4">Cuarto grado </string>
+    <string name="primaria5">Quinto grado </string>
+    <string name="primaria6">Sexto grado </string>
+    <string name="titulomaestros">Mestros por Áreas o Asignaturas</string>
+    <string name="area1">Lengua e Idioma</string>
+    <string name="area2">Matemáticas y Ciencias</string>
+    <string name="area3">Ciencias Sociales y Humanidades</string>
+    <string name="area4">Artes, Expresión y Cultura</string>
+    <string name="area5">Educación Física y Deporte</string>
+    <string name="area6">Tecnología y Ciencias Aplicadas</string>
+
+
+    <string name="tituloreporte">Reportes Generales de la Institución</string>
+    <string name="descRgrupo">Reportes Generales de los Grupos del Instituto.</string>
+    <string name="descRmaestros">Reportes Generales de los Mestros del Instituto.</string>
+    <string name="descRnotas">Reportes Generales de las Notas del Instituto.</string>
+    <string name="descRasignaturas">Reportes Generales de las Asignaturas del Instituto.</string>
+    <string name="descRestudiantes">Reportes Generales de los Estudiantes del Instituto.</string>
+    <string name="descRmatricula">Reportes Generales de las Matriculas del Instituto.</string>
+
+    <string name="tmaestros">Segundo Año</string>
+    <string name="tnotas">Tercero Año</string>
+    <string name="tmatriculas">Cuarto Año</string>
+    <string name="testudiantes">Quinto Año</string>
+    <string name="tasignaturas">Quinto Año</string>
+
+    <string name="docentes_por_turno">Docentes por turno</string>
+    <string name="estudiantes_por_ano">Estudiantes por año</string>
+    <string name="aprobados_vs_reprobados">Aprobados vs Reprobados</string>
+    <string name="top_reprobados_por_materia">Top reprobados por materia</string>
+    <string name="tendencia_anual">Tendencia anual</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_compose_student_list">ComposeStudentList</string>
+    <string name="title_activity_compose_main">ComposeMainActivity</string>
+</resources>
